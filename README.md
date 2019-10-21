@@ -1,3 +1,6 @@
+觉得这个blog简洁舒适，打算开个分支推敲进阶下。
+
+
 ## 一个基于thinkphp5的个人博客项目
 
 >界面:https://blog.csdn.net/qq_33344121/article/details/78831838
